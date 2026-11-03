@@ -598,6 +598,63 @@
       "fotos": [
         "assets/img/quadro-planejamento.jpg"
       ]
+    },
+    {
+      "tipo": "preco",
+      "disponivelAPartirDe": "2027-01-01",
+      "status": "disponivel",
+      "precoOriginal": null,
+      "id": "cama-box-casal",
+      "nome": "Cama box casal + colchão",
+      "descricao": "Cama box casal com colchão (conjunto).",
+      "preco": 200,
+      "estado": "A confirmar",
+      "fotos": [
+        "assets/img/cama-box-casal.jpg",
+        "assets/img/cama-box-casal-2.jpg"
+      ]
+    },
+    {
+      "tipo": "preco",
+      "disponivelAPartirDe": "2027-01-01",
+      "status": "disponivel",
+      "precoOriginal": null,
+      "id": "aspirador-britania",
+      "nome": "Aspirador de pó Britânia",
+      "descricao": "Aspirador de pó com mangueira e tubo.",
+      "preco": 80,
+      "estado": "A confirmar",
+      "fotos": [
+        "assets/img/aspirador-britania.jpg"
+      ]
+    },
+    {
+      "tipo": "preco",
+      "disponivelAPartirDe": "2027-01-01",
+      "status": "disponivel",
+      "precoOriginal": null,
+      "id": "prateleiras-flutuantes",
+      "nome": "Prateleiras pretas (conjunto de 3)",
+      "descricao": "Conjunto de 3 prateleiras pretas de parede.",
+      "preco": 20,
+      "estado": "Bom",
+      "fotos": [
+        "assets/img/prateleiras-flutuantes.jpg"
+      ]
+    },
+    {
+      "tipo": "preco",
+      "disponivelAPartirDe": "2027-01-01",
+      "status": "disponivel",
+      "precoOriginal": null,
+      "id": "puff-preto",
+      "nome": "Puff preto",
+      "descricao": "Puff grande, preto.",
+      "preco": 50,
+      "estado": "Bom",
+      "fotos": [
+        "assets/img/puff-preto.jpg"
+      ]
     }
   ]
 }
