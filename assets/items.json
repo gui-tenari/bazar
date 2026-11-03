@@ -85,18 +85,32 @@
       ]
     },
     {
-      "id": "cama-box-solteiro",
-      "nome": "Cama box solteiro + colchão Emma",
-      "descricao": "Box solteiro (pago R$ 600) e colchão Emma de solteiro (pago R$ 2.000).",
+      "id": "colchao-emma-solteiro",
+      "nome": "Colchão Emma One Plus solteiro",
+      "descricao": "Colchão Emma One Plus de solteiro (comprado em 2023 por R$ 1.199). Acompanha capa de proteção.",
       "tipo": "preco",
-      "preco": 1200,
+      "preco": 500,
       "estado": "Bom",
       "disponivelAPartirDe": "2026-12-01",
       "status": "disponivel",
       "fotos": [
         "assets/img/cama-box-solteiro.jpg"
       ],
-      "precoOriginal": 2600
+      "precoOriginal": 1199
+    },
+    {
+      "id": "cama-box-solteiro",
+      "nome": "Cama box solteiro",
+      "descricao": "Cama box solteiro (paga R$ 600).",
+      "tipo": "preco",
+      "preco": 350,
+      "estado": "Bom",
+      "disponivelAPartirDe": "2026-12-01",
+      "status": "disponivel",
+      "fotos": [
+        "assets/img/cama-box-solteiro.jpg"
+      ],
+      "precoOriginal": 600
     },
     {
       "id": "estante-pinus",
