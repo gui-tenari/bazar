@@ -380,21 +380,6 @@
       ]
     },
     {
-      "id": "guarda-roupa-solteiro-capri",
-      "nome": "Guarda-roupa solteiro Capri 2 portas 6 gavetas",
-      "descricao": "Com espelho, cor ônix.",
-      "tipo": "preco",
-      "preco": 300,
-      "estado": "A confirmar",
-      "disponivelAPartirDe": "2026-11-10",
-      "status": "disponivel",
-      "precoOriginal": null,
-      "compradoEm": "2025-05",
-      "fotos": [
-        "assets/img/guarda-roupa-solteiro-capri.jpg"
-      ]
-    },
-    {
       "id": "painel-tv-bento",
       "nome": "Painel para TV até 60\" ripado Bento",
       "descricao": "Com nichos, freijó/off white.",
@@ -455,21 +440,6 @@
       ]
     },
     {
-      "id": "cepo-facas-mundial",
-      "nome": "Cepo de facas Mundial Elegance Kitchen",
-      "descricao": "Modelo 6600-5.",
-      "tipo": "preco",
-      "preco": 160,
-      "estado": "A confirmar",
-      "disponivelAPartirDe": "2026-12-01",
-      "status": "disponivel",
-      "precoOriginal": 325,
-      "compradoEm": "2025-08",
-      "fotos": [
-        "assets/img/cepo-facas-mundial.jpg"
-      ]
-    },
-    {
       "id": "echo-dot-5",
       "nome": "Amazon Echo Dot 5ª geração (Alexa)",
       "descricao": "Cor azul.",
@@ -512,36 +482,6 @@
       "compradoEm": "2026-06",
       "fotos": [
         "assets/img/potes-vidro-bambu.jpg"
-      ]
-    },
-    {
-      "id": "balanca-cozinha",
-      "nome": "Balança digital de cozinha",
-      "descricao": "Precisão de 0,1 g, até 2 kg, inox.",
-      "tipo": "doacao",
-      "preco": null,
-      "estado": "A confirmar",
-      "disponivelAPartirDe": "2026-11-10",
-      "status": "disponivel",
-      "precoOriginal": null,
-      "compradoEm": "2026-09",
-      "fotos": [
-        "assets/img/balanca-cozinha.jpg"
-      ]
-    },
-    {
-      "id": "organizador-talheres",
-      "nome": "Organizador de gaveta porta-talheres extensível",
-      "descricao": "Universal.",
-      "tipo": "doacao",
-      "preco": null,
-      "estado": "A confirmar",
-      "disponivelAPartirDe": "2026-12-01",
-      "status": "disponivel",
-      "precoOriginal": null,
-      "compradoEm": "2025-05",
-      "fotos": [
-        "assets/img/organizador-talheres.jpg"
       ]
     },
     {
