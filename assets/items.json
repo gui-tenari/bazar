@@ -99,19 +99,6 @@
       "precoOriginal": 2600
     },
     {
-      "id": "cama-box-casal",
-      "nome": "Cama box baú casal + colchão Ortobom D33",
-      "descricao": "Bem avariada, mas ainda dá para aproveitar.",
-      "tipo": "doacao",
-      "preco": null,
-      "estado": "Bem avariada",
-      "disponivelAPartirDe": "2026-12-01",
-      "status": "disponivel",
-      "fotos": [
-        "assets/img/cama-box-casal.jpg"
-      ]
-    },
-    {
       "id": "estante-pinus",
       "nome": "Estante/sapateira de madeira",
       "descricao": "3 níveis, madeira pinus.",
