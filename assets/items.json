@@ -502,8 +502,8 @@
       "id": "porta-chaves-parede",
       "nome": "Porta-chaves de parede",
       "descricao": "Preto, com ganchos.",
-      "tipo": "doacao",
-      "preco": null,
+      "tipo": "preco",
+      "preco": 20,
       "estado": "A confirmar",
       "disponivelAPartirDe": "2026-11-10",
       "status": "disponivel",
@@ -571,6 +571,32 @@
       "compradoEm": "2025-11",
       "fotos": [
         "assets/img/guarda-roupa-casal-coliseu.jpg"
+      ]
+    },
+    {
+      "id": "luminaria-mesa",
+      "nome": "Luminária de mesa articulada",
+      "descricao": "Preta, braço articulado com molas.",
+      "tipo": "preco",
+      "preco": 30,
+      "estado": "Bom",
+      "disponivelAPartirDe": "2026-11-10",
+      "status": "disponivel",
+      "fotos": [
+        "assets/img/luminaria-mesa.jpg"
+      ]
+    },
+    {
+      "id": "quadro-planejamento",
+      "nome": "Quadro magnético de planejamento mensal",
+      "descricao": "Calendário mensal com área de anotações e lista de tarefas. Acompanha canetas e ímãs.",
+      "tipo": "preco",
+      "preco": 30,
+      "estado": "Bom",
+      "disponivelAPartirDe": "2026-11-10",
+      "status": "disponivel",
+      "fotos": [
+        "assets/img/quadro-planejamento.jpg"
       ]
     }
   ]
