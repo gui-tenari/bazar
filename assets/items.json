@@ -101,7 +101,7 @@
     },
     {
       "id": "cama-box-casal",
-      "nome": "Cama box casal + colchão",
+      "nome": "Cama box baú casal + colchão Ortobom D33",
       "descricao": "Bem avariada, mas ainda dá para aproveitar.",
       "tipo": "doacao",
       "preco": null,
@@ -346,6 +346,291 @@
       "status": "disponivel",
       "fotos": [
         "assets/img/cobertores.jpg"
+      ]
+    },
+    {
+      "id": "lavadora-electrolux-lac12",
+      "nome": "Lavadora Electrolux 12kg LAC12",
+      "descricao": "Turbo Economia, silenciosa, cesto inox.",
+      "tipo": "preco",
+      "preco": 1050,
+      "estado": "A confirmar",
+      "disponivelAPartirDe": "2026-12-01",
+      "status": "disponivel",
+      "precoOriginal": 1829,
+      "compradoEm": "2025-03",
+      "fotos": [
+        "assets/img/sem-foto.svg"
+      ]
+    },
+    {
+      "id": "fogao-consul-cfo4var",
+      "nome": "Fogão 4 bocas Consul Inox",
+      "descricao": "Modelo CFO4VAR, mesa de vidro, acendimento automático, bivolt.",
+      "tipo": "preco",
+      "preco": 750,
+      "estado": "A confirmar",
+      "disponivelAPartirDe": "2026-12-01",
+      "status": "disponivel",
+      "precoOriginal": 1448,
+      "compradoEm": "2025-03",
+      "fotos": [
+        "assets/img/sem-foto.svg"
+      ]
+    },
+    {
+      "id": "cabeceira-queen-calitan",
+      "nome": "Cabeceira casal/queen 160 cm + 2 mesas de cabeceira",
+      "descricao": "Modelo Calitan, com LED.",
+      "tipo": "preco",
+      "preco": 320,
+      "estado": "A confirmar",
+      "disponivelAPartirDe": "2026-12-01",
+      "status": "disponivel",
+      "precoOriginal": 667,
+      "compradoEm": "2025-05",
+      "fotos": [
+        "assets/img/sem-foto.svg"
+      ]
+    },
+    {
+      "id": "guarda-roupa-solteiro-capri",
+      "nome": "Guarda-roupa solteiro Capri 2 portas 6 gavetas",
+      "descricao": "Com espelho, cor ônix.",
+      "tipo": "preco",
+      "preco": 300,
+      "estado": "A confirmar",
+      "disponivelAPartirDe": "2026-11-10",
+      "status": "disponivel",
+      "precoOriginal": null,
+      "compradoEm": "2025-05",
+      "fotos": [
+        "assets/img/sem-foto.svg"
+      ]
+    },
+    {
+      "id": "painel-tv-bento",
+      "nome": "Painel para TV até 60\" ripado Bento",
+      "descricao": "Com nichos, freijó/off white.",
+      "tipo": "preco",
+      "preco": 170,
+      "estado": "A confirmar",
+      "disponivelAPartirDe": "2026-11-10",
+      "status": "disponivel",
+      "precoOriginal": 366,
+      "compradoEm": "2025-05",
+      "fotos": [
+        "assets/img/sem-foto.svg"
+      ]
+    },
+    {
+      "id": "mesa-jantar-ditalia",
+      "nome": "Mesa de jantar Ditália com 2 bancos",
+      "descricao": "Conjunto JA-220 + JA-225.",
+      "tipo": "preco",
+      "preco": 350,
+      "estado": "A confirmar",
+      "disponivelAPartirDe": "2026-12-01",
+      "status": "disponivel",
+      "precoOriginal": null,
+      "compradoEm": "2025-05",
+      "fotos": [
+        "assets/img/sem-foto.svg"
+      ]
+    },
+    {
+      "id": "microondas-philco-20l",
+      "nome": "Micro-ondas Philco 20L",
+      "descricao": "Modelo PME25, 1100 W, espelhado.",
+      "tipo": "preco",
+      "preco": 280,
+      "estado": "A confirmar",
+      "disponivelAPartirDe": "2026-12-01",
+      "status": "disponivel",
+      "precoOriginal": 570,
+      "compradoEm": "2025-05",
+      "fotos": [
+        "assets/img/sem-foto.svg"
+      ]
+    },
+    {
+      "id": "cadeira-escritorio-jadel",
+      "nome": "Cadeira de escritório Healer Jadel",
+      "descricao": "Preta, estofado de tecido.",
+      "tipo": "preco",
+      "preco": 180,
+      "estado": "A confirmar",
+      "disponivelAPartirDe": "2026-11-10",
+      "status": "disponivel",
+      "precoOriginal": null,
+      "compradoEm": "2025-05",
+      "fotos": [
+        "assets/img/sem-foto.svg"
+      ]
+    },
+    {
+      "id": "cepo-facas-mundial",
+      "nome": "Cepo de facas Mundial Elegance Kitchen",
+      "descricao": "Modelo 6600-5.",
+      "tipo": "preco",
+      "preco": 160,
+      "estado": "A confirmar",
+      "disponivelAPartirDe": "2026-12-01",
+      "status": "disponivel",
+      "precoOriginal": 325,
+      "compradoEm": "2025-08",
+      "fotos": [
+        "assets/img/sem-foto.svg"
+      ]
+    },
+    {
+      "id": "echo-dot-5",
+      "nome": "Amazon Echo Dot 5ª geração (Alexa)",
+      "descricao": "Cor azul.",
+      "tipo": "preco",
+      "preco": 180,
+      "estado": "A confirmar",
+      "disponivelAPartirDe": "2026-11-10",
+      "status": "disponivel",
+      "precoOriginal": null,
+      "compradoEm": "2026-08",
+      "fotos": [
+        "assets/img/sem-foto.svg"
+      ]
+    },
+    {
+      "id": "escada-aluminio-3-degraus",
+      "nome": "Escada de alumínio dobrável 3 degraus",
+      "descricao": "Compacta e leve.",
+      "tipo": "preco",
+      "preco": 80,
+      "estado": "A confirmar",
+      "disponivelAPartirDe": "2026-11-10",
+      "status": "disponivel",
+      "precoOriginal": null,
+      "compradoEm": "2026-06",
+      "fotos": [
+        "assets/img/sem-foto.svg"
+      ]
+    },
+    {
+      "id": "potes-vidro-bambu",
+      "nome": "Kit 6 potes herméticos de vidro com tampa de bambu",
+      "descricao": "300 ml cada.",
+      "tipo": "negociacao",
+      "preco": null,
+      "estado": "A confirmar",
+      "disponivelAPartirDe": "2026-11-10",
+      "status": "disponivel",
+      "precoOriginal": null,
+      "compradoEm": "2026-06",
+      "fotos": [
+        "assets/img/sem-foto.svg"
+      ]
+    },
+    {
+      "id": "balanca-cozinha",
+      "nome": "Balança digital de cozinha",
+      "descricao": "Precisão de 0,1 g, até 2 kg, inox.",
+      "tipo": "doacao",
+      "preco": null,
+      "estado": "A confirmar",
+      "disponivelAPartirDe": "2026-11-10",
+      "status": "disponivel",
+      "precoOriginal": null,
+      "compradoEm": "2026-09",
+      "fotos": [
+        "assets/img/sem-foto.svg"
+      ]
+    },
+    {
+      "id": "organizador-talheres",
+      "nome": "Organizador de gaveta porta-talheres extensível",
+      "descricao": "Universal.",
+      "tipo": "doacao",
+      "preco": null,
+      "estado": "A confirmar",
+      "disponivelAPartirDe": "2026-12-01",
+      "status": "disponivel",
+      "precoOriginal": null,
+      "compradoEm": "2025-05",
+      "fotos": [
+        "assets/img/sem-foto.svg"
+      ]
+    },
+    {
+      "id": "porta-chaves-parede",
+      "nome": "Porta-chaves de parede",
+      "descricao": "Preto, com ganchos.",
+      "tipo": "doacao",
+      "preco": null,
+      "estado": "A confirmar",
+      "disponivelAPartirDe": "2026-11-10",
+      "status": "disponivel",
+      "precoOriginal": null,
+      "compradoEm": "2025-05",
+      "fotos": [
+        "assets/img/sem-foto.svg"
+      ]
+    },
+    {
+      "id": "geladeira-brastemp-brm44hk",
+      "nome": "Geladeira Brastemp Frost Free Duplex 375L Inox",
+      "descricao": "Modelo BRM44HK, com compartimento Extrafrio e Fresh Zone.",
+      "tipo": "preco",
+      "preco": 1900,
+      "estado": "A confirmar",
+      "disponivelAPartirDe": "2026-12-01",
+      "status": "vendido",
+      "precoOriginal": 3199,
+      "compradoEm": "2025-03",
+      "fotos": [
+        "assets/img/sem-foto.svg"
+      ]
+    },
+    {
+      "id": "tv-lg-55-4k",
+      "nome": "Smart TV LG 55\" 4K UHD",
+      "descricao": "Modelo 55UT8050, webOS, Alexa e Chromecast integrados.",
+      "tipo": "preco",
+      "preco": 1700,
+      "estado": "A confirmar",
+      "disponivelAPartirDe": "2026-12-01",
+      "status": "vendido",
+      "precoOriginal": 2754,
+      "compradoEm": "2025-05",
+      "fotos": [
+        "assets/img/sem-foto.svg"
+      ]
+    },
+    {
+      "id": "sofa-retratil-prime",
+      "nome": "Sofá 3 lugares retrátil e reclinável Prime",
+      "descricao": "Linho cinza, 2,10 m (Mobly).",
+      "tipo": "preco",
+      "preco": 1100,
+      "estado": "A confirmar",
+      "disponivelAPartirDe": "2026-12-01",
+      "status": "vendido",
+      "precoOriginal": 2414,
+      "compradoEm": "2025-05",
+      "fotos": [
+        "assets/img/sem-foto.svg"
+      ]
+    },
+    {
+      "id": "guarda-roupa-casal-coliseu",
+      "nome": "Guarda-roupa casal Coliseu 2 portas 6 gavetas",
+      "descricao": "100% MDF. Precisa ser desmontado para o transporte.",
+      "tipo": "preco",
+      "preco": 1150,
+      "estado": "A confirmar",
+      "disponivelAPartirDe": "2026-12-01",
+      "status": "vendido",
+      "precoOriginal": 2412,
+      "compradoEm": "2025-11",
+      "fotos": [
+        "assets/img/sem-foto.svg"
       ]
     }
   ]
